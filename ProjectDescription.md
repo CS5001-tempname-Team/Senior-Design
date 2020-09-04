@@ -3,9 +3,9 @@
 ## Team Name: ______
 
 ## Team Members:
-* Garret Oien - Computer Science
-* Kevin Starmack - Computer Science
-* Sheffi Tiwari - Computer Science
+* Garret Oien (oiengt@mail.uc.edu) - Computer Science
+* Kevin Starmack (starmakw@mail.uc.edu) - Computer Science
+* Sheffi Tiwari (tiwarisf@mail.uc.edu) - Computer Science
 
 ## Faculty Advisor:
 * Nan Niu, niunn@mail.uc.edu
