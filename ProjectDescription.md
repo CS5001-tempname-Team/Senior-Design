@@ -1,6 +1,6 @@
 # Project Description
 
-## Team Name: ______
+## Team Name: NLP with GKS
 
 ## Team Members:
 * Garret Oien (oiengt@mail.uc.edu) - Computer Science
