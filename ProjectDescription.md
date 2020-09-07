@@ -7,7 +7,7 @@
 * Kevin Starmack (starmakw@mail.uc.edu) - Computer Science
 __Co-op and Work Experience:__
 
-* Technical Displays Co-op, Balluff Inc., Florence, KY (2 semesters)
+Technical Displays Co-op, Balluff Inc., Florence, KY (2 semesters)
   * Responsible for taking in data and parameters from sensors via a webserver
   * Displaying said data for easy-to-read sensor inputs through a user interface (UI)
   * Working with Controls Engineers in order to better optimize industry-specific projects/demos
@@ -15,7 +15,7 @@ __Co-op and Work Experience:__
   * Created Node-RED library for simple "copy-paste" coding
   * Trained in using a programmable logic controller (PLC) 
 
-* After-Sales Technical Engineer, Balluff Inc., Florence, KY (1 semester)
+After-Sales Technical Engineer, Balluff Inc., Florence, KY (1 semester)
   * Responding to customers with concerns via email or phone
   * Main focus of technical support was in Industrial Ethernet devices
   * Sole programmer for an XY gantry system used to plot hysteresis of Balluff sensors
@@ -36,6 +36,9 @@ __Co-op and Work Experience:__
  * Computer Networking
  * Industrial Automation
  * Programmable Logic Controllers
+ 
+ 
+ 
 * Sheffi Tiwari (tiwarisf@mail.uc.edu) - Computer Science
 
 ## Faculty Advisor:
