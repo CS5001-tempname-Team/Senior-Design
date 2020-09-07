@@ -34,9 +34,9 @@ After-Sales Technical Engineer, Balluff Inc., Florence, KY (1 semester)
  
  
  __Areas of Interest:__
- Requirements Engineering
- Computer Networking
- Industrial Automation
+ Requirements Engineering,
+ Computer Networking,
+ Industrial Automation,
  Programmable Logic Controllers
  
  
