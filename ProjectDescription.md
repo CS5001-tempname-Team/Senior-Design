@@ -5,7 +5,9 @@
 ## Team Members:
 * Garret Oien (oiengt@mail.uc.edu) - Computer Science
 * Kevin Starmack (starmakw@mail.uc.edu) - Computer Science
-####__Co-op and Work Experience:__
+
+
+__Co-op and Work Experience:__
 
 Technical Displays Co-op, Balluff Inc., Florence, KY (2 semesters)
   * Responsible for taking in data and parameters from sensors via a webserver
