@@ -1,8 +1,8 @@
-###D0
+### D0
  * This diagram explains ...
  
-###D1
+### D1
   *This diagram explains ...
   
- ###D2
+ ### D2
   *This diagram explains ...
