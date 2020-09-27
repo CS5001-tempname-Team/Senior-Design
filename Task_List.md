@@ -16,6 +16,11 @@
 
 * Test running the semantic parser or if anything needs to be adusted to it will be the responsibility of Garret Oien/Kevin Starmack/Sheffi Tiwari
 
-* Uploadig content to the Github page will be the responsibility ofGarret Oien/Kevin Starmack/Sheffi Tiwari
+* Uploadig content to the Github page will be the responsibility of: Garret Oien/Kevin Starmack/Sheffi Tiwari
 
 * Communication between technical advsior will be the responsbility of: Garret Oien/Kevin Starmack/Sheffi Tiwari
+
+* Finding a way to "echo" output from the Stanford Dependency Typed Parser (STDP) to a .txt document will be the responsibility of Kevin Starmack
+
+* Researching various parsers for requirement will be the responsibility Garret Oien/Kevin Starmack/Sheffi Tiwari
+
