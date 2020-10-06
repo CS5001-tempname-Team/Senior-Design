@@ -1,0 +1,8 @@
+FERPA-1 : FERPA |entity| unique
+Prohibits-3 : Prohibits |event |unique | FERPA-1
+Disclosure-6 :Disclosure |entity | unique
+Identifiable-9 : Indentifiable | entity | non-unique| of= information-10
+Information-10 : Information | entity |arg1=Identifiable-9
+Derived-11 : Derived |unique| entity| of= records-14
+Education-13 : Education |unique| entity| of= derived-11
+Records-14 : Records |unqique | of=FERPA-1
