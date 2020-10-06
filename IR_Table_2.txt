@@ -1,0 +1,13 @@
+student-3 : student |unique| entity| of = Once-1, a-2
+reaches-4: reaches |unique| event|
+18-5: 18|int|of = years -6, of -7, age-8
+years-6 : years|int| unique| arg1= of-7, age-8 |implied by 18-5
+attends-10 attend| action| of = a-11
+postsecondary-12 : post-secondary| status|unique
+becomes-18 : becomes |predicate| arg1= years-6, age-8
+eligiable-19 : eligable |implied_by age-8
+student-22 : student | entity | unique| of = becomes-18
+rights-27 : rights | entity| unique|  of= and-25, all-26
+parents -31 : parents|entity| unique| arg= transfer-34, rights- 27
+transfer -34: transfer |action| unique| of = under-32 FERPA-33
+student -37: student |entity| 
