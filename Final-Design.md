@@ -60,7 +60,7 @@ _See [this link](https://github.com/NLP-with-GKS/Senior-Design/blob/master/Timel
 
 
 ### Effort Matrix
-_See [this link](https://gitlab.com/jebidis93/cs5001/blob/master/effort-matrix.PNG) to go to the file_
+_See [this link](//INSERT EFFORT MATRIX) to go to the file_
 
 ## PPT Slideshow
 _See [this link](https://docs.google.com/presentation/d/1dtHg9B830lzQbjkzOfcarhM3uWI8u3Qms4T6TSQD2_Y/edit#slide=id.ga4f0169eeb_0_12) to go to the file_
