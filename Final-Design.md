@@ -17,7 +17,7 @@
  - [Appendix](#appendix)
     - [Garret](#garret)
     - [Kevin](#kevin)
-    = [Sheffi](#sheffi)
+    - [Sheffi](#sheffi)
 
 ## Project Abstract
 
