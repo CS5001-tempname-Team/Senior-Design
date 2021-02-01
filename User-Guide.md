@@ -40,7 +40,7 @@ $ docker-compose up -d
 ```
 
 ### How do I run ...
-Ensure the following ports are exposed for incoming traffic to Virtuoso:
+Ensure the following ports are exposed for incoming traffic to ... :
 
 ```
 80, 4000, 5000, 8080, and 8888
