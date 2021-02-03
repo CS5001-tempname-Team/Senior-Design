@@ -28,6 +28,11 @@ This value is used to determine the level of agreement within multiple raters in
 
 ## FAQ
 
+
+### What is our project focusing on?
+
+We are looking to see if there is an efficient method of taking natural language requirements and finding a way to take these requirements and have a more formal method of analzying their properties. This project has the ambition of being an automated process.
+
 ### Could I use an API for the Stanford Core NLP?
 
 Below is a quick snippet of code that demonstrates running a full pipeline on some sample text. It requires the english and english-kbp models jars which contain essential resources.
@@ -160,9 +165,9 @@ public class BasicPipelineExample {
 
 ```
 
-### How do I run ...
-Ensure the following ports are exposed for incoming traffic to ... :
+### Any ports I should keep open?
+For the sake of the Stanford Core NLP keep port 80 open:
 
 ```
-80, 4000, 5000, 8080, and 8888
+IP address: 80
 ```
