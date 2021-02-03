@@ -24,7 +24,7 @@ Another, and much different, tool we used in the project was Fleiss' Kappa.
 
 This value is used to determine the level of agreement within multiple raters in a scenario. Temporal logic was a key aspect in our research, ergo, we had to develop a way to determine the team's level of agreement on whether or not a phrase contains temporal logic. This was key in generating training data for a potential Machine Learning algorithm.
 
-[Image of Fleiss] (https://github.com/NLP-with-GKS/Senior-Design/blob/master/f.PNG)
+[Image of Fleiss] (https://github.com/NLP-with-GKS/Senior-Design/blob/master/f.PNG?raw=true)
 
 ## FAQ
 
@@ -35,18 +35,6 @@ Use:
 ```sh
 $ docker-compose up --build
 # open http://localhost/ to see changes
-```
-
-To rebuild and run ...
-
-
-```
-
-### How do I run
-
-```
-$ docker-compose up -d
-# open http://localhost/
 ```
 
 ### How do I run ...
