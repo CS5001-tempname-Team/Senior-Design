@@ -166,8 +166,9 @@ public class BasicPipelineExample {
 ```
 
 ### Any ports I should keep open?
-For the sake of the Stanford Core NLP keep port 80 open:
+For the sake of the Stanford Core NLP keep port 80 open, as well as 8080:
 
 ```
 IP address: 80
+IP address: 8080
 ```
