@@ -57,8 +57,8 @@ _See [this link](https://github.com/NLP-with-GKS/Senior-Design/blob/master/Timel
 ### Effort Matrix
 _See [this link](https://github.com/NLP-with-GKS/Senior-Design/blob/master/Classwork-Homework/effort-matrix.PNG) to go to the file_
 
-## PPT Slideshow
-_See [this link](https://docs.google.com/presentation/d/1dtHg9B830lzQbjkzOfcarhM3uWI8u3Qms4T6TSQD2_Y/edit#slide=id.ga4f0169eeb_0_12) to go to the file_
+## Spring PPT Slideshow
+_See [this link](https://github.com/NLP-with-GKS/Senior-Design/blob/master/Expo%20Slidedeck(1).pptx) to go to the file_
 
 ## Self-Assessment Essays and Biographies
 _[Team's self assessments and bio's](https://github.com/NLP-with-GKS/Senior-Design/tree/master/Classwork-Homework)_
