@@ -44,7 +44,7 @@ The user manual of our Capstone project can be accessed from [this link](https:/
 
 ## Spring PPT Presentation
 
-The PowerPoint for the Senior Design Expo can be accessed from [this link](https://github.com/NLP-with-GKS/Senior-Design/blob/master/Expo%20Slidedeck.pptx)
+The PowerPoint for the Senior Design Expo can be downloaded from [this link](https://github.com/NLP-with-GKS/Senior-Design/blob/master/Expo%20Slidedeck.pptx)
 
 ## User Stories and Design Diagrams
 
