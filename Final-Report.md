@@ -3,6 +3,7 @@
  - [Project Description](#project-description)
  - [User Interface Specification](#user-interface-specification)
  - [Test Plan and Results](#test-plan-and-results)
+ - [User Manual](#user-manual)
  - [User Stories and Design Diagrams](#user-stories-and-design-diagrams)
     - [User Stories](#user-stories)
     - [Design Diagrams](#design-diagrams)
@@ -35,6 +36,10 @@ As this was a research project, there was no need to design a user interface. Th
 ## Test Plan and Results
 
 The test plan and results of our tests can be accessed from [this link](https://github.com/NLP-with-GKS/Senior-Design/blob/master/Test_Plan_and_Results.pdf)
+
+## User Manual
+
+The user manual of our Capstone project can be accessed from [this link](https://github.com/NLP-with-GKS/Senior-Design/blob/master/2021%20User%20Guide/User-Guide.md)
 
 ## User Stories and Design Diagrams
 
