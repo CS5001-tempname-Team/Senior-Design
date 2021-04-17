@@ -1,6 +1,5 @@
 # Final Report
 
- - [Project Abstract](#project-abstract)
  - [Project Description](#project-description)
  - [User Stories and Design Diagrams](#user-stories-and-design-diagrams)
     - [User Stories](#user-stories)
@@ -15,7 +14,7 @@
  - [Professional Biographies](#professional-biographies)
  - [Budget](#budget)
 
-## Project Abstract
+## Project Description
 
 Garret Oien - oiengt@mail.uc.edu
 
