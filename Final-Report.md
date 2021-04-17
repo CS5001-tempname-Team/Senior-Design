@@ -38,14 +38,14 @@ The final poster for our Capstone project can be accessed from [this link](https
 
 ## Assessments
 ### Initial Assessments
-- For Sheffi's initial self-assessment, see [this link]()
-- For Garret's initial self-assessment, see [this link](https://github.com/NLP-with-GKS/Senior-Design/blob/master/Classwork-Homework/Garret%20Oien_Individual%20Capstone%20Assessment.md)
-- For Kevin's initial self-assessment, see [this link](https://github.com/NLP-with-GKS/Senior-Design/blob/master/Classwork-Homework/Kevin-SelfAssessment.md)
+- For Sheffi's initial assessment, see [this link]()
+- For Garret's initial assessment, see [this link](https://github.com/NLP-with-GKS/Senior-Design/blob/master/Classwork-Homework/Garret%20Oien_Individual%20Capstone%20Assessment.md)
+- For Kevin's initial assessment, see [this link](https://github.com/NLP-with-GKS/Senior-Design/blob/master/Classwork-Homework/Kevin-SelfAssessment.md)
 
 ### Final Assessments
-- For Sheffi's initial self-assessment, see [this link]()
-- For Garret's initial self-assessment, see [this link](https://github.com/NLP-with-GKS/Senior-Design/blob/master/Final-Assessments/Garret%20Assessment.docx)
-- For Kevin's initial self-assessment, see [this link](https://github.com/NLP-with-GKS/Senior-Design/blob/master/Final-Assessments/Kevin%20Assessment.docx)
+- For Sheffi's final assessment, see [this link]()
+- For Garret's final assessment, see [this link](https://github.com/NLP-with-GKS/Senior-Design/blob/master/Final-Assessments/Garret%20Assessment.docx)
+- For Kevin's final assessment, see [this link](https://github.com/NLP-with-GKS/Senior-Design/blob/master/Final-Assessments/Kevin%20Assessment.docx)
 
 ## Summary of Hours and Justification
 Add link here once this has been completed in Google Docs.
