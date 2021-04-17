@@ -5,6 +5,7 @@
  - [Test Plan and Results](#test-plan-and-results)
  - [User Manual](#user-manual)
  - [Spring PPT Presentation](#spring-ppt-presentation)
+ - [Final Expo Poster](#final-expo-poster)
  - [User Stories and Design Diagrams](#user-stories-and-design-diagrams)
     - [User Stories](#user-stories)
     - [Design Diagrams](#design-diagrams)
@@ -45,6 +46,10 @@ The user manual of our Capstone project can be accessed from [this link](https:/
 ## Spring PPT Presentation
 
 The PowerPoint for the Senior Design Expo can be downloaded from [this link](https://github.com/NLP-with-GKS/Senior-Design/blob/master/Expo%20Slidedeck.pptx)
+
+## Final Expo Poster
+
+The final poster for our Capstone project can be accessed from [this link](https://github.com/NLP-with-GKS/Senior-Design/blob/master/Senior%20Design%20-%20Poster.pdf)
 
 ## User Stories and Design Diagrams
 
