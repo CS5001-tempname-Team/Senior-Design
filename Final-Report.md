@@ -6,6 +6,9 @@
  - [User Manual](#user-manual)
  - [Spring PPT Presentation](#spring-ppt-presentation)
  - [Final Expo Poster](#final-expo-poster)
+ - [Assessments](#assessments)
+    -[Initial Self-Assessments](#initial-self-assessments)
+    -[Final Self-Assessments](#final-self-assessments)
  - [Project Tasks and Timeline](#project-tasks-and-timeline)
     - [Task List](#task-list)
     - [Milestones](#milestones)
@@ -46,6 +49,21 @@ The PowerPoint for the Senior Design Expo can be downloaded from [this link](htt
 ## Final Expo Poster
 
 The final poster for our Capstone project can be accessed from [this link](https://github.com/NLP-with-GKS/Senior-Design/blob/master/Senior%20Design%20-%20Poster.pdf)
+
+## Assessments
+### Initial Self-Assessments
+For Sheffi's initial self-assessment, see [this link]()
+
+For Garret's initial self-assessment, see [this link](https://github.com/NLP-with-GKS/Senior-Design/blob/master/Classwork-Homework/Garret%20Oien_Individual%20Capstone%20Assessment.md)
+
+For Kevin's initial self-assessment, see [this link](https://github.com/NLP-with-GKS/Senior-Design/blob/master/Classwork-Homework/Kevin-SelfAssessment.md)
+
+### Final Self-Assessment
+For Sheffi's initial self-assessment, see [this link]()
+
+For Garret's initial self-assessment, see [this link]()
+
+For Kevin's initial self-assessment, see [this link]()
 
 ## Project Tasks and Timeline
 
