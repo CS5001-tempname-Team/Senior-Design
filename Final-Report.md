@@ -14,9 +14,6 @@
  - [Self-Assessment Essays](#self-assessment-essays)
  - [Professional Biographies](#professional-biographies)
  - [Budget](#budget)
-    - [Garret](#garret)
-    - [Kevin](#kevin)
-    - [Sheffi](#sheffi)
 
 ## Project Abstract
 
