@@ -34,7 +34,7 @@ As this was a research project, there was no need to design a user interface. Th
 
 ## Test Plan and Results
 
-The test plan and results of this Capstone project can be accessed from the following link: _[this link](https://github.com/NLP-with-GKS/Senior-Design/tree/master/Design_Diagrams)_
+The test plan and results of this Capstone project can be accessed from the following link: _[Test Plan](https://github.com/NLP-with-GKS/Senior-Design/tree/master/Test Plan and Results.pdf)_
 
 ## User Stories and Design Diagrams
 
