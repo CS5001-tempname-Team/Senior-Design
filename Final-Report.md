@@ -9,14 +9,6 @@
     - [Initial Assessments](#initial-assessments)
     - [Final Assessments](#final-assessments)
  - [Summary of Hours and Justification](#summary-of-hours-and-justification)
- - [Project Tasks and Timeline](#project-tasks-and-timeline)
-    - [Task List](#task-list)
-    - [Milestones](#milestones)
-    - [Timeline](#timeline)
-    - [Effort Matrix](#effort-matrix)
- - [Self-Assessment Essays](#self-assessment-essays)
- - [Professional Biographies](#professional-biographies)
- - [Budget](#budget)
 
 ## Project Description
 Garret Oien - oiengt@mail.uc.edu
@@ -57,26 +49,3 @@ The final poster for our Capstone project can be accessed from [this link](https
 
 ## Summary of Hours and Justification
 Add link here once this has been completed in Google Docs.
-
-## Project Tasks and Timeline
-
-### Task List, Milestones, and Timetable
-_See [this link](https://github.com/NLP-with-GKS/Senior-Design/blob/master/Timeline%20and%20Matrix.pdf) to go to the file_
-
-### Effort Matrix
-_See [this link](https://github.com/NLP-with-GKS/Senior-Design/blob/master/Classwork-Homework/effort-matrix.PNG) to go to the file_
-
-## Spring PPT Slideshow
-_See [this link](https://github.com/NLP-with-GKS/Senior-Design/blob/master/Expo%20Slidedeck(1).pptx) to go to the file_
-
-## Self-Assessment Essays and Biographies
-_[Team's self assessments and bio's](https://github.com/NLP-with-GKS/Senior-Design/tree/master/Classwork-Homework)_
-
-#### Summary of Hours
-
-- [repo](https://github.com/NLP-with-GKS/Senior-Design) 
-- [Time worked](https://github.com/NLP-with-GKS/Senior-Design/blob/master/Classwork-Homework/effort-matrix.PNG)
-
-## Budget
-
-* In this project, we have spent no money.  We had no reason to spend any money on the project as it was research based and centered around open-source software.
