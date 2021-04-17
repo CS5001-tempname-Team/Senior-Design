@@ -1,4 +1,4 @@
-# Natural Language Processing Research Project
+# Final Report
 
  - [Project Abstract](#project-abstract)
  - [Project Description](#project-description)
@@ -14,7 +14,6 @@
  - [Self-Assessment Essays](#self-assessment-essays)
  - [Professional Biographies](#professional-biographies)
  - [Budget](#budget)
- - [Appendix](#appendix)
     - [Garret](#garret)
     - [Kevin](#kevin)
     - [Sheffi](#sheffi)
@@ -29,11 +28,7 @@ Sheffi Tiwari - tiwarisf@mail.uc.edu
 
 Advised by Professor Nan Niu - niunn@ucmail.uc.edu
 
-Our research project goal is to be able to bridge the gap between natural language and formal requirements by using both manual labor, automated tools, as well as our own deliverables.
-## Project Description
-
-This capstone project aims to develop an automated approach to formulate formal specifications from natural language requirements, such as regulation and policy documentation. To achieve this goal, a research paper on the extraction of requirements specification from natural language is being utilized. This paper will serve as the main reference while working toward a solution. 
-Requirements will be analyzed in various policy documents and linear temporal logic (LTL) formulas will be derived from these requirements. Ambiguity is often observed in technical specifications because they are written in a natural language (e.g. English). These formulas will allow for the elimination of this ambiguity.
+Our research project goal was to be able to bridge the gap between natural language and formal requirements by using both manual labor, automated tools, as well as our own deliverables. This capstone project aimed to develop an automated approach to formulate formal specifications from natural language requirements, such as regulation and policy documentation. To achieve this goal, a research paper on the extraction of requirements specification from natural language is being utilized. This paper will serve as the main reference while working toward a solution. Requirements weere be analyzed in various policy documents and linear temporal logic (LTL) formulas will be derived from these requirements. Ambiguity is often observed in technical specifications because they are written in a natural language (e.g. English). These formulas will allow for the elimination of this ambiguity.
 
 ## User Stories and Design Diagrams
 
@@ -76,5 +71,3 @@ _[Team's self assessments and bio's](https://github.com/NLP-with-GKS/Senior-Desi
 ## Budget
 
 * In this project, we have spent no money.  We had no reason to spend any money on the project as it was research based and centered around open-source software.
-
-
