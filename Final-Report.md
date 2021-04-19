@@ -3,7 +3,7 @@
  - [User Interface Specification](#user-interface-specification)
  - [Test Plan and Results](#test-plan-and-results)
  - [User Manual](#user-manual)
- - [Spring PPT Presentation](#spring-ppt-presentation)
+ - [Final PPT Presentation](#final-ppt-presentation)
  - [Final Expo Poster](#final-expo-poster)
  - [Assessments](#assessments)
     - [Initial Assessments](#initial-assessments)
@@ -30,7 +30,7 @@ The test plan and results of our tests can be accessed from [this link](https://
 ## User Manual
 The user manual of our Capstone project can be accessed from [this link](https://github.com/NLP-with-GKS/Senior-Design/blob/master/2021%20User%20Guide/User-Guide.md)
 
-## Spring PPT Presentation
+## Final PPT Presentation
 The PowerPoint for the Senior Design Expo can be downloaded from [this link](https://github.com/NLP-with-GKS/Senior-Design/blob/master/Expo%20Slidedeck.pptx)
 
 ## Final Expo Poster
